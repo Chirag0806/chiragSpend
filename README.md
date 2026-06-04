@@ -1,3 +1,5 @@
+<img width="712" height="1600" alt="WhatsApp Image 2026-06-03 at 8 19 31 PM" src="https://github.com/user-attachments/assets/14c17a9c-7661-4bb0-a2e6-03e35a04d799" />
+<img width="712" height="1600" alt="WhatsApp Image 2026-06-03 at 8 19 31 PM (1)" src="https://github.com/user-attachments/assets/ba1ba89d-8fe8-4ccf-abe6-88c301fd3ec7" />
 A Flutter **Spend Tracker** app with a monthly spend summary screen. Data is provided by in-app mock models for now—no backend or persistence.
 
 ## Features
